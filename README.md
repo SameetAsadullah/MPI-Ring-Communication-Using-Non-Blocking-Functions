@@ -1,2 +1,4 @@
-# MPI-Ring-Communication-Using-Non-Blocking-Functions
-A MPI ring communication program in C++ using non-blocking function calls
+<h1 align="center">MPI Ring Communication</h1>
+
+### Description
+A `MPI Ring Communication` program in `C++` using `Non-Blocking` function calls.
